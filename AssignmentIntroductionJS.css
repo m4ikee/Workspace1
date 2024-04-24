@@ -1,0 +1,83 @@
+#container{
+    background-color: white;
+}
+#leftcontainer{
+    height: 780px;
+    width: 150px;
+    background-color:rgb(239, 242, 242);
+    border: 1px solid rgb(130, 214, 214);
+    text-align: left;
+    display: inline-block;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 16px;
+    padding-left: 5px;
+
+}
+.topic{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    font-weight: bold;
+    color: cadetblue;
+    line-height: 2;
+}
+.subtopic{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    line-height: 1.5;
+}
+.emptyspace{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    color: rgb(239, 242, 242);
+    line-height: 1;
+}
+#rightcontainer{
+    height: 500px;
+    width: 720px;
+    display: inline-block;
+    vertical-align: -546px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 16px;
+    margin-right: 0px;
+
+}
+.par{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 14.5px;
+
+}
+.italic{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 14.5px;
+    font-style: italic;
+}
+.bold{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 14.5px;
+    font-weight: bold
+}
+.insrcont1{
+    max-height: 110px;
+    max-width: 720px;
+    border: 2px solid rgb(130, 214, 214);
+    vertical-align: 1000px;
+    padding-top: 0px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-bottom: 10px;
+}
+.insrcont2{
+    max-height: 220px;
+    max-width: 720px;
+    border: 2px solid rgb(130, 214, 214);
+    vertical-align: 1000px;
+    padding-top: 0px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-bottom: 10px;
+}

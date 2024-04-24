@@ -1,0 +1,204 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+#container{
+    min-width: 970px;
+    height: 970px;
+    background-color: black;
+    margin: 0px;
+}
+#categories{
+    min-width: 970px;
+    height: 60px;
+    background-color: blueviolet;
+}
+#PHPlogo{
+    max-height: 30px;
+    margin-top: 15px;
+    margin-left: 60px;
+    margin-right: -10px;
+    display: inline-block;
+}
+#categorylist{
+    color: darkslategrey;
+    display: inline-block;
+}
+.list{
+    display: inline-block;
+    vertical-align: 10px;
+    margin-right: 10px;
+}
+#InvertedPHPlogo{
+    max-height: 30px;
+    display: inline-block;
+}
+#searchbox{
+    display: inline-block;
+    vertical-align: 10px;
+    margin-left: 270px;
+}
+#sb{
+    width: 300px;
+}
+#secondlist{
+    color: rgb(155, 180, 180);
+    display: inline-block;
+}
+.list2{
+    display: inline-block;
+    vertical-align: 10px;
+    margin-right: -15px;
+    margin-left: 20px;
+    margin-top: -10px;
+}
+#thirdlist{
+    color: rgb(155, 180, 180);
+    display: inline-block;
+}
+.option1{
+    display: inline-block;
+    vertical-align: 10px;
+    margin-right: -15px;
+    margin-left: 550px;
+    margin-top: -10px;
+}
+.option2{
+    display: inline-block;
+    vertical-align: 10px;
+    margin-right: 0px;
+    margin-left: 30px;
+    margin-top: -10px;
+}
+#content{
+   width: 800px;
+   height: 700px;
+   margin-left: 50px;
+   background-color: lightgrey;
+   display: inline-block;
+}
+.ast{
+    width: 750px;
+    height: 120px;
+    margin-left: 30px;
+    border-bottom: 2px dotted black;
+  
+}
+.title{
+    font-weight: bold;
+    font-size: 30px;
+    padding-top: 65px;
+    display: inline-block;
+}
+.rsel{
+    width: 250px;
+    height: 100px;
+    margin-left: 210px;
+    vertical-align: 40px;
+    display: inline-block;
+}
+.lang{
+    font-weight: normal;
+    font-size: 13px;
+    display: inline-block;
+
+}
+.slang{
+    width: 120px;
+    display: inline-block;
+}
+.botlang1{
+    font-size: 10px;
+    display: inline-block;
+    margin-left: 50px;
+}
+.botlang2{
+    font-size: 10px;
+    display: inline-block;
+    margin-left: 10px;
+
+}
+.toc{
+    width: 750px;
+    height: 85px;
+    margin-left: 30px;
+    border-bottom: 2px dotted black;
+}
+.title2{
+    font-weight: bold;
+    font-size: 30px;
+    padding-top: 35px;
+    display: inline-block;
+}
+.list3{
+    margin-left: 10px;
+}
+p{
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+.ucn{
+    width: 750px;
+    height: 60px;
+    margin-left: 30px;
+    border-bottom: 2px dotted black;
+  
+}
+.title3{
+    font-weight: bold;
+    font-size: 30px;
+    padding-top: 10px;
+    display: inline-block;
+}
+.addbutton{
+    height: 30px;
+    width: 80px;
+    margin-left: 265px;
+    display: inline-block;
+}
+.addicon{
+    height: 13px;
+    width: 13px;
+    font-size: 10px;
+    display: inline;
+    vertical-align: middle;
+
+}
+#rightpane{
+    display: inline-block;
+    color: rgb(155, 180, 180);
+    vertical-align: top;
+}
+.r1{
+    font-size: 20px;;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-bottom: 1px solid lightgrey;
+
+}
+.r2{
+    margin-top: 10px;
+    margin-left: 10px;
+    padding-left:18px;
+    border-bottom: 1px solid lightgrey;
+
+}
+.r3{
+    margin-top: 10px;
+    margin-left: 10px;
+    border-bottom: 1px solid lightgrey;
+    font-weight: bold;
+    color: purple;
+
+}
+.footer{
+    height: 100px;
+    margin-top: 60px;
+    color: rgb(155, 180, 180);
+    background-color: black;
+}
+.list3{
+    font-size: 10px;
+    display: inline-block;
+    margin-right: 10px;
+}

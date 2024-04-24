@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Pizza Form</title>
+    </head>
+    <body>
+        <h2>Pizza Order Form</h2>
+        <p>
+            <label>
+                First Name: <input type = "text" name = "FirstName" /> <br><br>
+                Last Name: <input type = "text" name = "LastName" /> <br><br>
+                Email Address: <input type = "text" name = "EmailAddress" /> <br><br>
+                Contact Number: <input type = "text" name = "ContactNumber"/><br><br>
+                Preferred Delivery Date: <input type = "date" name = "PreferredDeliveryDate"/><br><br>
+                Size:<br>
+                <input type = "radio" name = "small"/> Small 
+                <input type = "radio" name = "small"/> Medium 
+                <input type = "radio" name = "small"/> Large <br><br>
+                Flavor:<br>
+                <input type = "checkbox" name = "Hawaiian"/> Hawaiian (Php 150.00)
+                    <select name = "HawaiianQuantity">
+                        <option value = "1">1</option>
+                        <option value = "2">2</option>
+                        <option value = "3">3</option>
+                        <option value = "4">4</option>
+                        <option value = "5">5</option>
+                    </select><br>
+                <input type = "checkbox" name = "Pepperoni"/> Pepperoni (Php 140.00)
+                    <select name = "PepperoniQuantity">
+                        <option value = "1">1</option>
+                        <option value = "2">2</option>
+                        <option value = "3">3</option>
+                        <option value = "4">4</option>
+                        <option value = "5">5</option>
+                    </select><br>
+                <input type = "checkbox" name = "Vegetable"/> Vegetable (Php 130.00)
+                    <select name = "VegetableQuantity">
+                        <option value = "1">1</option>
+                        <option value = "2">2</option>
+                        <option value = "3">3</option>
+                        <option value = "4">4</option>
+                        <option value = "5">5</option>
+                    </select><br><br>
+                Credit Card Number: <input type = "text" name = "CreditCardNumber"/><br><br>
+                Pin: <input type = "password" name = "Pin"/><br><br>
+                Additional Note: <br>
+                <textarea name = AddtionalNote></textarea><br><br>
+                <input type = "submit" value = "Submit"/>
+            </label>
+        </p>
+    </body>
+</html>
